@@ -5,6 +5,8 @@
   "main": "bot.js",
   "dependencies": {
     "@fluxerjs/core": "^1.1.7",
-    "@fluxerjs/voice": "^1.1.7"
+    "@fluxerjs/voice": "^1.1.7",
+    "debug": "^4.4.3",
+    "youtube-dl-exec": "^3.1.1"
   }
 }
