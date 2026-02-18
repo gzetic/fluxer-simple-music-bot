@@ -1,0 +1,11 @@
+{
+  "name": "fluxer-quickstart",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "dependencies": {
+    "@fluxerjs/core": "^1.1.1",
+    "@fluxerjs/voice": "^1.1.1",
+    "youtube-dl-exec": "^3.1.1"
+  }
+}
